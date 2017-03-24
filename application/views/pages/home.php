@@ -1,0 +1,1 @@
+<h1>Greetings Earthlings! This is the home page.</h1>
